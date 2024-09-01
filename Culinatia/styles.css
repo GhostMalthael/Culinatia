@@ -1,0 +1,36 @@
+.logOrReg{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 50px;
+    flex-direction: column
+    
+}
+
+
+.paragraph{
+    padding-right: 35px;
+    margin-top: 10px;
+}
+.paragraph1{
+    margin-top: 10px;
+    margin-left: 45px;
+}
+.otstupTop{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    padding: 2px;
+    height: 20px;
+    width: 300px;
+}
+.paragraph1{
+    margin-top: 10px;
+    margin-left: 45px;
+}
+
